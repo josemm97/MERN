@@ -1,0 +1,22 @@
+.container{
+    /* background-color: beige; */
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.bread{
+  /* background-color: yellow; */
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* width: 90%; */
+  
+}
+.link{
+    /* background-color: yellow; */
+    text-decoration: none;
+}
+.link_container{
+  flex:1;
+  font-size: 13px;
+}

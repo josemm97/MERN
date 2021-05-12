@@ -1,0 +1,33 @@
+.container{
+    /* background-color: blanchedalmond; */
+    margin-top: 56px;
+    height: calc(100vh - 56px);
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: violet; */
+    width: 100%;
+    height: 100vh;
+}
+.input_container{
+    /* display: block; */
+    /* background-color: yellow; */
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.input{
+    /* display: block; */
+    width: 100%;
+    /* background-color: wheat; */
+}
+.button{
+    width: 100%;
+}
